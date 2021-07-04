@@ -28,3 +28,8 @@ Using Neural Network nad library PyTorch.
 ![alt text][Validation]
 
 [Validation]: screenshots/DropoutVL.png "Validation"
+
+### Screenshot of my console on 36 epoch
+![alt text][GRU]
+
+[GRU]: screenshots/GRU36epoch.png "GRU"
