@@ -9,5 +9,5 @@ Using Neural Network nad library PyTorch.
 <img alt="Spacy" src="https://img.shields.io/badge/spacy-3.0.3-yellow">
 <img alt="Requests" src="https://img.shields.io/badge/requests-2.25.0-important">
 <img alt="symspellpy" src="https://img.shields.io/badge/symspellpy-6.7.0-blue">
-![AUR last modified](https://img.shields.io/aur/last-modified/Text-generation)
+
 
