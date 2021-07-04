@@ -10,4 +10,11 @@ Using Neural Network nad library PyTorch.
 <img alt="Requests" src="https://img.shields.io/badge/requests-2.25.0-important">
 <img alt="symspellpy" src="https://img.shields.io/badge/symspellpy-6.7.0-blue">
 
+## Build With
+
+* [PyTorch](https://pytorch.org/) - Open source machine learning framework that accelerates the path from research prototyping to production deployment.
+* [WanDB](https://wandb.ai/) - Build better models faster with experiment tracking, dataset versioning, and model management.
+* [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python.
+* [Spacy](https://spacy.io/) - Used to build information extraction, natural language understanding systems, and to pre-process text for deep learning.
+* [Tqdm](https://tqdm.github.io/) - Instantly make your loops show a smart progress meter.
 
