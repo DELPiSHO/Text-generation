@@ -22,4 +22,4 @@ Using Neural Network nad library PyTorch.
 ### After 4 trainings i compared results about different dropouts on Training dataset and choose dropout value of my model witch gives me smaller error
 ![alt text][Training]
 
-[Training]: screenshots/DropoutTL "Training"
+[Training]: screenshots/DropoutTL.png "Training"
