@@ -18,3 +18,8 @@ Using Neural Network nad library PyTorch.
 * [Spacy](https://spacy.io/) - Used to build information extraction, natural language understanding systems, and to pre-process text for deep learning.
 * [Tqdm](https://tqdm.github.io/) - Instantly make your loops show a smart progress meter.
 
+## Some screenshots during this project
+### After 1 training i collect data about error on Training dataset
+![alt text][Training]
+
+[Training]: screenshots/GRU36epoch.png "Training"
