@@ -19,7 +19,7 @@ Using Neural Network nad library PyTorch.
 * [Tqdm](https://tqdm.github.io/) - Instantly make your loops show a smart progress meter.
 
 ## Some screenshots during this project
-### After 1 training i collect data about error on Training dataset
+### After 4 trainings i compared results about different dropouts on Training dataset and choose dropout value of my model witch gives me smaller error
 ![alt text][Training]
 
-[Training]: screenshots/GRU36epoch.png "Training"
+[Training]: screenshots/DropoutTL "Training"
