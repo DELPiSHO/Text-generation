@@ -23,3 +23,8 @@ Using Neural Network nad library PyTorch.
 ![alt text][Training]
 
 [Training]: screenshots/DropoutTL.png "Training"
+
+### I've done same thing on my Validation dataset
+![alt text][Validation]
+
+[Validation]: screenshots/DropoutVL.png "Validation"
